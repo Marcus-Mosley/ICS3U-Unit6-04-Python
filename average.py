@@ -8,7 +8,7 @@ import random
 
 
 def array_average(passed_number_array):
-    # This program finds the average of a 2D array
+    # This function finds the average of a 2D array
 
     sum = 0
     num_items = 0
